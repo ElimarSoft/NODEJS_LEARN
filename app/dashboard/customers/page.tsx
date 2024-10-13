@@ -1,4 +1,4 @@
 export default function Page() {
-    return <p className="text-8xl">👴 Customers Page</p>;
+    return <p className="text-7xl">👴 Old Customers Page 🦽</p>;
   }
   
